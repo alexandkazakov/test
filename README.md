@@ -1,2 +1,2 @@
 # test
-test gihub and js
+Test GitHub and learning JS
